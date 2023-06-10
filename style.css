@@ -1,4 +1,4 @@
-
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa&family=Kaushan+Script&family=Nunito&family=Oswald&display=swap");
 
 :root {
   --primaryColor: #fff;
@@ -16,12 +16,10 @@ html {
 body {
   margin: 0;
   background: #000;
-
+  font-family: Nunito, sans-serif;
 }
 
 /* --- Navigation Menu ------------------------------ */
-
-
 
 /* --- Menu Bars ------------------------------------ */
 
